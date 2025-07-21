@@ -1,8 +1,6 @@
 <h1 align="center">Twitter-clone</h1>
 <h1 align="center"><img src="./readme_assets/h1.png" width="70%"></h1>
 
-<h2 align="center"><a  href="http://85.209.9.55/">Live Demo</a></h2>
-
 ## Описание
 Сервис микроблогов, похожий на Twitter
 Дает возможность твитнуть текст + прикрепить картинки, поставить лайк, подписаться на пользователя.
